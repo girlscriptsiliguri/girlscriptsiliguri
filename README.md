@@ -9,5 +9,7 @@ Inaugurated as a part of Hacktoberfest 2022 for the first time!
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=girlscriptsiliguri&theme=blue-green)
 ## 3. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=girlscriptsiliguri)
-
+![profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgirlscriptsiliguri1212%2Fhit-counter)
+## 4. Some statistics for this account:
+![stats](https://github-profile-trophy.vercel.app/?username=girlscriptsiliguri)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=girlscriptsiliguri)
