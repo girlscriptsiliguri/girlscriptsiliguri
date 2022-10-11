@@ -2,7 +2,7 @@ Official Account of GirlScript Siliguri on Github, a regional chapter of @girlsc
 We have open sourced repositories available for contribution towards our website and app(coming soon!)
 Inaugurated as a part of Hacktoberfest 2022 for the first time!
 
-
+![twitter](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=girlscriptsiliguri&show_icons=true)
