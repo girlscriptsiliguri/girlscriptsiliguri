@@ -13,3 +13,6 @@ Inaugurated as a part of Hacktoberfest 2022 for the first time!
 ## 4. Some statistics for this account:
 ![stats](https://github-profile-trophy.vercel.app/?username=girlscriptsiliguri)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=girlscriptsiliguri)
+
+### Hacktoberfest badges:
+[![@girlscript siliguri's Holopin board](https://holopin.me/girlscriptsiliguri)](https://holopin.io/@girlscriptsiliguri)
