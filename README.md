@@ -16,3 +16,5 @@ Inaugurated as a part of Hacktoberfest 2022 for the first time!
 
 ### Hacktoberfest badges:
 [![@girlscript siliguri's Holopin board](https://holopin.me/girlscriptsiliguri)](https://holopin.io/@girlscriptsiliguri)
+
+### Contact us via email at- sgirlscript@gmail.com
