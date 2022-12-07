@@ -17,4 +17,16 @@ Inaugurated as a part of Hacktoberfest 2022 for the first time!
 ### Hacktoberfest badges:
 [![@girlscript siliguri's Holopin board](https://holopin.me/girlscriptsiliguri)](https://holopin.io/@girlscriptsiliguri)
 
-### Contact us via email at- sgirlscript@gmail.com
+### Contact us via email at- sgirlscript@gmail.com <br>
+### our social media platforms-
+<div id="badges">
+  <a href="https://in.linkedin.com/company/girlscriptsiliguri">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/girlscriptsiliguri">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
+  </a>
+  <a href="https://twitter.com/GSiliguri">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
